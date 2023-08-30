@@ -1,0 +1,14 @@
+{
+  "name": "survey-form",
+  "version": "1.0.0",
+  "description": "survey form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Bhargava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
